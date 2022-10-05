@@ -9,6 +9,8 @@ Hello world
 
 Here is some new content form Sublime Text3
 
+He is a **shiny**
+
 A small text that explains some syntaxes :
 
 * *italics*
