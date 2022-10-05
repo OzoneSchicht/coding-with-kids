@@ -7,6 +7,8 @@ Welcome to Coding with Kids's documentation!
 ============================================
 Hello world
 
+Here is some new content form Sublime Text
+
 A small text that explains some syntaxes :
 
 * *italics*
