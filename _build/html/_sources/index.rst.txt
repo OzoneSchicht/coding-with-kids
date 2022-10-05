@@ -7,6 +7,10 @@ Welcome to Coding with Kids's documentation!
 ============================================
 Hello world
 
+Here is some new content form Sublime Text3
+
+He is a **shiny**
+
 A small text that explains some syntaxes :
 
 * *italics*
@@ -37,7 +41,8 @@ A small text that explains some syntaxes :
 
 For explain this exemple, go to :doc:`/Options/justlogic` or for :doc:`best practice </Options/justlogic>` , thank you.
 
-For detail : :ref:`Options section for hardware and code <hwcodeOptions>`
+
+For go to puce : :ref:`Options section for hardware and code <hwcodeOptions>` .
 
 
 
@@ -62,3 +67,11 @@ For detail : :ref:`Options section for hardware and code <hwcodeOptions>`
 
    Guidelines/content
    Guidelines/workflow
+
+
+.. toctree::
+   :maxdepth: 2
+   :hidden:
+   :caption: about
+
+   about

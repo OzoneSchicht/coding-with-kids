@@ -56,6 +56,30 @@ Options
 
 
 
+.. list-table:: Comparison 
+	:widths: 20 10 10 15 20
+	:header-rows: 1
+	:class: tight-table
+
+	* - PLateform
+	  - Self-Contained?
+	  - Cost
+	  - Flexibility
+	  - Description
+	* - Raspberry Pi
+	  - No
+	  - $30
+	  - Limitless
+	  - Mini computer board with GPIO pins for interfacing and experimentation fffffffff fffffffffffff ffffffffffffff fffffffffffffff
+	* - Lego Mindstorms
+	  - Yes
+	  - $350
+	  - Medium
+	  - Logo robotics sytem with motors and sensors. Build a robot, then write ffffffff fffffffffff fffffffffffffffffff ffffffffffffffff
+
+
+
+
 Raspbery Pi (Family)
 ~~~~~~~~~~~~~~~~~~~~
 
