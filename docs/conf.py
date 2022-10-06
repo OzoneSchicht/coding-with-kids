@@ -31,6 +31,9 @@ todo_include_todos = False
 
 html_theme = 'sphinx_rtd_theme'
 
+def set(app):
+	app.add_css_file('css/custom.css')
+
 extensions = ['myst_parser']
 
 
